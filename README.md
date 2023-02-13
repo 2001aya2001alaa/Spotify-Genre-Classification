@@ -25,3 +25,6 @@ This raises an important question what makes a song reach top status?
      5. Support Vector Machine
      6. Random Forest
      7. Artificial Neural Network 
+
+## Final Result
+- Choose Random Forest Model, it has the best accuracy between all models.
