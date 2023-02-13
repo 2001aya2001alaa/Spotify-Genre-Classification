@@ -10,6 +10,10 @@ This raises an important question what makes a song reach top status?
 ## What I Did
 - Load The Data
 - Clean The Data
+     1. Delete Unused Columns In The Model
+     2. Convert ms to minutes to be more readable
+     3. Drop columns that have one value
+- Statistical Information about Data 
 - Preprocess The Data
 - Prepare The Data For The Model
      1. Label encoding
