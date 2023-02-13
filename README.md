@@ -17,7 +17,7 @@ This raises an important question what makes a song reach top status?
      2. Feature Scaling
      3. Handle Imbalanced Data
      4. Split The Data
-- Model Selection: Compare between several calssification algorithms and choose the best model
+- Model Selection: Compare between several classification algorithms and choose the best model
      1. Logistic Regression
      2. Decision Tree
      3. Naive Bayes
