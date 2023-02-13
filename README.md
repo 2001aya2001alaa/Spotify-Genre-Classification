@@ -7,7 +7,8 @@ This raises an important question what makes a song reach top status?
 ## The Goal
 - Create a model to predict which song will reach the top 10 list and the commonalities between the songs.
 
-## What i did
+## What I Did
+- Load The Data
 - Clean The Data
 - Preprocess The Data
 - Prepare The Data For The Model
@@ -15,4 +16,11 @@ This raises an important question what makes a song reach top status?
      2. Feature Scaling
      3. Handle Imbalanced Data
      4. Split The Data
- 
+- Model Selection: Compare between several calssification algorithms and choose the best model
+     1. Logistic Regression
+     2. Decision Tree
+     3. Naive Bayes
+     4. K-Nearest Neighbor
+     5. Support Vector Machine
+     6. Random Forest
+     7. Artificial Neural Network 
